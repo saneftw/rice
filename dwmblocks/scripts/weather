@@ -1,3 +1,3 @@
 #!/bin/bash
 
-curl wttr.in/Kangasala?format=3
+curl wttr.in/Location?format=3
